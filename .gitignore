@@ -5,14 +5,16 @@ venv/
 # Python cache
 __pycache__/
 *.py[cod]
+.pytest_cache/
 
-# Jupyter temporary files
+# Jupyter
 .ipynb_checkpoints/
 
-# VS Code local settings
+# IDE
 .vscode/
+.idea/
 
-# Secrets and environment variables
+# Environment variables
 .env
 .env.*
 
@@ -20,8 +22,15 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
+# Streamlit cache
+.streamlit/
+
 # Raw physiological datasets
 data/raw/
 
-# Generated project outputs
+# Generated outputs
 results/
+
+# Coverage reports (if you use coverage later)
+.coverage
+htmlcov/
