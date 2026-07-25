@@ -6,7 +6,7 @@ troubleshooting using the PhysioNet/Computing in Cardiology Challenge 2015 datas
 
 Built as a portfolio project for Clinical Application Specialist,
 Clinical Product Specialist, and Biomedical Engineering roles.
-
+(https://clinical-alarm-management-simulator-rcpb4zmwbrvdaqujfvgz6o.streamlit.app/)
 
  ## Project Overview
 
